@@ -23,5 +23,5 @@ console.log();
 // С помощью метода map получить массив, в котором будут содержаться только адреса магазинов. То есть:
 // ['ул. Петра Мстиславца 11, Минск', 'пр-т Дзержинского, 126, Минск']
 
-let adressArr = arr.map((obj) => obj.address);
-console.log(adressArr);
+let addressArr = arr.map((obj) => obj.address);
+console.log(addressArr);
